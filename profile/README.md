@@ -1,4 +1,4 @@
-# 🧠 impertunit
+# 🧠 Impertunit
 
 > **From wasted consumption to meaningful connection.**  
 > A new standard for secondhand trading — **impertunit**
